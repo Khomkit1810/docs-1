@@ -1,3 +1,4 @@
+![1000005043](https://github.com/auth0/docs/assets/103002896/c48f2fa8-7bde-4e95-bf12-ad2f70005b09)
 ---
 title: Add Login to your ASP.NET Core Blazor Server application
 description: This tutorial demonstrates how to add user login to an ASP.NET Core Blazor Server application.
